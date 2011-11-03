@@ -4,41 +4,45 @@ author:
   - 'Toby Inkster <tobyink@cpan.org>'
 build_requires:
   ExtUtils::MakeMaker: 6.42
-  Module::Signature: 0.66
   Test::More: 0.61
+  Test::RDF: 0.23
 configure_requires:
   ExtUtils::MakeMaker: 6.42
 distribution_type: module
-generated_by: 'Module::Install version 1.00'
+generated_by: 'Module::Install version 1.02'
 keywords:
   - HTML
+  - N-Triples
+  - 'Notation 3'
+  - RDF
+  - RDF/JSON
+  - RDF/XML
+  - 'Semantic Web'
+  - Turtle
   - XHTML
   - script
-  - RDF
-  - SemWeb
-  - Turtle
-  - Notation3
-  - N-Triples
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
+module_name: HTML::Embedded::Turtle
 name: HTML-Embedded-Turtle
 no_index:
   directory:
+    - examples
     - inc
     - t
+    - xt
 requires:
   Data::UUID: 0
-  RDF::RDFa::Parser: 1.09_04
+  RDF::RDFa::Parser: 1.093
   RDF::TriN3: 0
-  RDF::Trine: 0.118
-  RDF::TrineShortcuts: 0.07
+  RDF::Trine: 0.135
   common::sense: 0
-  perl: 5.8.0
+  perl: 5.10.0
 resources:
   bugtracker: http://rt.cpan.org/Dist/Display.html?Queue=HTML-Embedded-Turtle
-  homepage: http://search.cpan.org/dist/HTML-Embedded-Turtle/
+  homepage: https://metacpan.org/release/HTML-Embedded-Turtle
   license: http://dev.perl.org/licenses/
-  repository: http://goddamn.co.uk/viewvc/perlmods/HTML-Embedded-Turtle/
-version: 0.090
+  repository: http://goddamn.co.uk/svn-web/perlmods/browse/HTML-Embedded-Turtle/
+version: 0.271

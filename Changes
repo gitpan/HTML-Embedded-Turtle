@@ -1,17 +1,24 @@
-############################################################################
-## Changes #################################################################
-############################################################################
-
 HTML-Embedded-Turtle
 ====================
 
 Created:      2010-05-05
-Home page:    <http://search.cpan.org/dist/HTML-Embedded-Turtle/>
+Home page:    <https://metacpan.org/release/HTML-Embedded-Turtle>
 Bug tracker:  <http://rt.cpan.org/Dist/Display.html?Queue=HTML-Embedded-Turtle>
 Maintainer:   Toby Inkster <mailto:tobyink@cpan.org>
 
-0.090 [2010-12-09]
+0.271  2010-12-09
+
+ - drop dependency on RDF::TrineShortcuts
+ - various cleanups
+ - (Packaging) Module::Package::RDF
+ - (Packaging) improved test cases
+ - (Update) use 5.010
+
+0.090  2010-12-09
+
  - use RDF::TriN3
 
-0.01 [2010-05-05] # First release
+0.01  2010-05-05
+# First release
+
 
