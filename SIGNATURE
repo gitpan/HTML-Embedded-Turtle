@@ -14,10 +14,10 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 62e6f2046016cab5a0efb3443edea184b936b948 Changes
+SHA1 30ff44c441179a5f2309401ba638544ed1be8082 Changes
 SHA1 f3296a09eb07898f3ba6dd0ece615dafc1b57e16 LICENSE
 SHA1 98a93e4b533c89a793911eda4e59fefb5b5b0ced MANIFEST
-SHA1 da38493fc97c41a92a18408a35d567bfdfbe4dad META.yml
+SHA1 3e60a7d1b6bd75b7ce5d46d246fafa341ee9ccc0 META.yml
 SHA1 5391cc35db658809505db2be59d47aa2f073c376 Makefile.PL
 SHA1 5e9510ab8a2bdbdb65fe18b4bf2adc801613f6e7 README
 SHA1 985993b54703fefc84d15f3fcd2936780602f93c examples/simple-example.pl
@@ -36,20 +36,20 @@ SHA1 b86d0385e10881db680d28bde94f275e49e34a27 inc/Module/Install/TrustMetaYml.pm
 SHA1 1326052d1df1065debee74f9d8583a734b9b3d00 inc/Module/Install/Win32.pm
 SHA1 bb607f3715c40fc3bc1c46496587cdb215bc4fa2 inc/Module/Install/WriteAll.pm
 SHA1 26d58a041cd6b3d21db98b32e8fd1841aae21204 inc/Module/Package.pm
-SHA1 4db02ca3854a0d95bf38139e9b714cc85b618189 inc/Module/Package/Dist/RDF.pm
+SHA1 6b807287940754cc31a3db59f2b22e363d5525be inc/Module/Package/Dist/RDF.pm
 SHA1 775bd24f2fdbb6dce51a8b5b0cdb01fccfce83c4 inc/Scalar/Util.pm
 SHA1 b1b664983568bf822c327599eb88e223483ae96a inc/Scalar/Util/PP.pm
 SHA1 eef6bff62046bff2ce08ba132d0b58fba30f40b4 inc/YAML/Tiny.pm
-SHA1 59d766ca8e0dedd7bda0f17b062e9fb5d96d792c lib/HTML/Embedded/Turtle.pm
-SHA1 82270438ad1291cee33081a0947d69a98bee7c14 meta/changes.ttl
-SHA1 f39434c20ab0f2a270f7f2073878dacbd303bb20 meta/doap.ttl
+SHA1 2407cc50e9151844d2f875d396d3eed8d130ef9c lib/HTML/Embedded/Turtle.pm
+SHA1 3a4e8938eac31392310dcbdbd721ba6582ccf707 meta/changes.ttl
+SHA1 381f31d303f7cc9a264ff4a6d96ed96ce3090725 meta/doap.ttl
 SHA1 2d3df53489d7159237edd60ba7e7fdabd04d0a9e meta/makefile.ttl
-SHA1 88e9eab57baca6ccfa2d51f5e2b41d9e80a73f21 t/01basic.t
+SHA1 e60469c3d2fa9811aa0de8a41ce1a1da60af755e t/01basic.t
 SHA1 cc22630cf09125c76fc64890203739193f05deef t/02data.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.10 (GNU/Linux)
 
-iEYEARECAAYFAk6zFCkACgkQzr+BKGoqfTlnHwCeOZoNjUYoHOLuhy6EjWJNPVLV
-zkkAn0ruMsT3szof3tQRUgAy8lL0f1Dm
-=MVe3
+iEYEARECAAYFAk7fHjEACgkQzr+BKGoqfTnN+wCfU08iXLBm9Yi/mMUtOEzrDJtU
+aR4AnjtqRDIvpK94y93uhxq3qZrg1k6m
+=MM6z
 -----END PGP SIGNATURE-----
