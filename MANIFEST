@@ -1,4 +1,7 @@
 Changes
+CONTRIBUTING
+COPYRIGHT
+CREDITS
 examples/simple-example.pl
 inc/Module/AutoInstall.pm
 inc/Module/Install.pm
@@ -16,13 +19,12 @@ inc/Module/Install/Win32.pm
 inc/Module/Install/WriteAll.pm
 inc/Module/Package.pm
 inc/Module/Package/Dist/RDF.pm
-inc/Scalar/Util.pm
-inc/Scalar/Util/PP.pm
 inc/YAML/Tiny.pm
 lib/HTML/Embedded/Turtle.pm
 LICENSE
 Makefile.PL
 MANIFEST			This list of files
+META.ttl
 META.yml
 meta/changes.ttl
 meta/doap.ttl
